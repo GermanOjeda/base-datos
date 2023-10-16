@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T16:02:44.601Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="22.0.4" etag="80XILIdMK3Ik6aAbBnF8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T16:08:52.058Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="rC00yCoqCXQK3e-YDpc3" version="22.0.4" type="github">
   <diagram name="Página-1" id="tgJvauN8oL1YI1qP5kh8">
-    <mxGraphModel>
+    <mxGraphModel dx="1143" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="21ie6zG3xMY1rtKyhBJ1-2" value="Actores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ie6zG3xMY1rtKyhBJ1-3" value="Personajes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ie6zG3xMY1rtKyhBJ1-4" value="Capítulos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ie6zG3xMY1rtKyhBJ1-5" value="Películas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ie6zG3xMY1rtKyhBJ1-6" value="Planetas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
