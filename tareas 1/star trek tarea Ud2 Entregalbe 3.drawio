@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T15:36:38.269Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cTMEYts6SZcs64GZVFL3" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T15:37:37.598Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="sJ6GHV1zqW78tK0kDXTG" version="22.0.4" type="github">
   <diagram name="Página-1" id="tgJvauN8oL1YI1qP5kh8">
     <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -282,6 +282,18 @@
         </mxCell>
         <mxCell id="FqyxBrGEKv9SOuB2avVY-80" value="N:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FqyxBrGEKv9SOuB2avVY-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FqyxBrGEKv9SOuB2avVY-82" target="21ie6zG3xMY1rtKyhBJ1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FqyxBrGEKv9SOuB2avVY-82" value="Fecha de Lanzamiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FqyxBrGEKv9SOuB2avVY-85" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FqyxBrGEKv9SOuB2avVY-83" target="21ie6zG3xMY1rtKyhBJ1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FqyxBrGEKv9SOuB2avVY-83" value="Director" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
