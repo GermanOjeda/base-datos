@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T15:02:25.148Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="I-ZKAx8p6ZwYRXo5McZW" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T15:03:50.860Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="6t3JwkLTd4rcxdVLV9IA" version="22.0.4" type="github">
   <diagram name="Página-1" id="tgJvauN8oL1YI1qP5kh8">
     <mxGraphModel dx="1658" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="FqyxBrGEKv9SOuB2avVY-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FqyxBrGEKv9SOuB2avVY-38" target="21ie6zG3xMY1rtKyhBJ1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqyxBrGEKv9SOuB2avVY-38" value="en" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FqyxBrGEKv9SOuB2avVY-38" value="participan" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
