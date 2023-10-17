@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T15:08:09.685Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Cp8tYY6J2HCDV-AWj6Q-" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T15:09:10.678Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="kjSD4Ymg6aY_uPy7qMun" version="22.0.4" type="github">
   <diagram name="Página-1" id="tgJvauN8oL1YI1qP5kh8">
     <mxGraphModel dx="1658" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -168,13 +168,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FqyxBrGEKv9SOuB2avVY-41" value="temporada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FqyxBrGEKv9SOuB2avVY-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="FqyxBrGEKv9SOuB2avVY-42" target="21ie6zG3xMY1rtKyhBJ1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FqyxBrGEKv9SOuB2avVY-42" value="pertenecen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="590" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="590" y="700" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
