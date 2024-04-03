@@ -3,9 +3,9 @@
 
 --Elimine la tabla "alumno" si existe.
 --Nota:Muestra el comando y la salida.
-
+drop table if exists alumno;
 /**
-
+Query OK, 0 rows affected (0,01 sec)
 **/
 
 --Cree la tabla definiendo una clave primaria compuesta (año de inscripción y número de inscripción).
